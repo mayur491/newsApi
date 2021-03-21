@@ -1,4 +1,4 @@
-package com.codemayur.demo.controller;
+package com.codemayur.newsApi.controller;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.client.RestTemplate;
 
-import com.codemayur.demo.model.Root;
+import com.codemayur.newsApi.model.Root;
 
 /**
  * <p>

@@ -1,4 +1,4 @@
-package com.codemayur.demo;
+package com.codemayur.newsApi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

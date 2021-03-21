@@ -1,4 +1,4 @@
-package com.codemayur.demo;
+package com.codemayur.newsApi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

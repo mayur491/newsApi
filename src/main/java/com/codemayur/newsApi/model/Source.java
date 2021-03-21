@@ -1,4 +1,4 @@
-package com.codemayur.demo.model;
+package com.codemayur.newsApi.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

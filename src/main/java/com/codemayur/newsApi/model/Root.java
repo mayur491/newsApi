@@ -1,4 +1,4 @@
-package com.codemayur.demo.model;
+package com.codemayur.newsApi.model;
 
 import java.util.List;
 
